@@ -285,11 +285,7 @@ header {
   width: 100%;
   min-height: 100vh;
   background: rgb(75, 150, 166);
-  background: linear-gradient(
-    0deg,
-    rgba(75, 150, 166, 1) 0%,
-    rgba(11, 125, 54, 1) 100%
-  );
+ 
 }
 
 form {
